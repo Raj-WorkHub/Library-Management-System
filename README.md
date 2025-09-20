@@ -48,7 +48,7 @@ src/com/library/
 
 ## Class Diagram
 
-
+![Class Diagram for Library Management Project](src/main/java/com/library/assets/ClassDiagram.svg)
 
 ## How to Run
 
